@@ -1,0 +1,29 @@
+Azerbaycanin paytaxti
+Baki
+Samaxi
+Quba
+Qusar
+A
+6 * 2 neche edir?
+12
+10
+
+A
+6 +  8 neche edir?
+10
+14
+12
+13
+B
+Azerbaycanin 2 - ci en boyuk sheheri?
+Gence
+Yevlax
+Sumqayit
+Imishli
+A
+Universitet neche il olur?
+4
+3
+2
+1
+A
